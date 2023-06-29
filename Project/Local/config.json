@@ -1,0 +1,26 @@
+[
+   {
+      "title":"Pauta EAD",
+      "drawable":"Graduation-Cap-32",
+      "submenu":"",
+      "iap":false,
+      "tabs":[
+         {
+            "title":"Início",
+            "provider":"webview",
+            "image":"Graduation-Cap-32",
+            "arguments":[
+               "https://pautaeditora.linqr.me/panel"
+            ]
+         },
+         {
+            "title":"Contato",
+            "provider":"webview",
+            "image":"Comments-32",
+            "arguments":[
+               "https://pautaeditora.com.br/#contato"
+            ]
+         }
+      ]
+   }
+]
